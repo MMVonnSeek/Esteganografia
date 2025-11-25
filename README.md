@@ -1,5 +1,11 @@
 # Esteganografia Binária com Tkinter
 
+![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Steganography](https://img.shields.io/badge/Steganography-Data%20Hiding-purple?style=for-the-badge&logo=codementor)
+
+
+
 Projeto em Python com interface gráfica para ocultar qualquer arquivo (ex: imagens) dentro de um MP3.
 
 ## O que é Esteganografia?
