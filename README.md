@@ -45,13 +45,39 @@ Esteganografia é como esconder uma agulha no palheiro — mas fazendo o palheir
 - Python 3.x
 - Interface Tkinter (já incluída no Python)
 
-python main.py
+---
 
-<img width="1536" height="1024" alt="20250719_1645_Arte com Esteganografia_simple_compose_01k0j3bqpbezc8cee73ca8rstv" src="https://github.com/user-attachments/assets/11424354-481b-4548-a684-8a1e12fc2a9f" />
+## Como usar
+
+1. Faça um Fork do Repositório:
+Antes de tudo, crie sua própria cópia deste projeto:
+
+- Clique no botão Fork no canto superior direito do GitHub.
+
+- Isso criará uma versão do repositório na sua conta.
+
+2. Clone o Seu Repositório Forkado:
+
+```
+git clone https://github.com/SEU-USUARIO/Esteganografia.git
+cd Esteganografia
+```
+
+3. Execute a aplicação principal:
+
+python main.py
 
 ---
 
-## Autor
+
+
+<img width="1536" height="1024" alt="20250719_1645_Arte com Esteganografia_simple_compose_01k0j3bqpbezc8cee73ca8rstv" src="https://github.com/user-attachments/assets/11424354-481b-4548-a684-8a1e12fc2a9f" />
+
+
+
+---
+
+##### Autor
 Professor: Max Müller
 
 Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
