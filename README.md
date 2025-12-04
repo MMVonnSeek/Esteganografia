@@ -65,7 +65,7 @@ cd Esteganografia
 
 3. Execute a aplicação principal:
 
-python main.py
+ main.py
 
 ---
 
