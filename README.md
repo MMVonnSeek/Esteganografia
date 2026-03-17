@@ -74,10 +74,38 @@ cd Esteganografia
 <img width="1536" height="1024" alt="20250719_1645_Arte com Esteganografia_simple_compose_01k0j3bqpbezc8cee73ca8rstv" src="https://github.com/user-attachments/assets/11424354-481b-4548-a684-8a1e12fc2a9f" />
 
 
+----------
 
----
+## Contribuição
 
-##### Autor
-Professor: Max Müller
+Se você gostou do projeto, não esqueça de:
 
-Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+-   ⭐ Deixar uma estrela no Repositório
+    
+-    Reportar bugs encontrados
+    
+-    Sugerir novas funcionalidades
+    
+-    Fazer um fork e contribuir
+    
+
+----------
+
+<div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong> para a comunidade de segurança </sub>
+
+  
+  
+
+[![Stars](https://img.shields.io/github/stars/MMVonnSeek/Esteganografia?style=social)](https://github.com/MMVonnSeek/Esteganografia/stargazers)
+[![Forks](https://img.shields.io/github/forks/MMVonnSeek/Esteganografia?style=social)](https://github.com/MMVonnSeek/Esteganografia/network/members)
+[![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
+
+<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br>
+
+  [Voltar ao topo](#-Esteganografia)
+
+</div>
