@@ -74,6 +74,19 @@ cd Esteganografia
 <img width="1536" height="1024" alt="20250719_1645_Arte com Esteganografia_simple_compose_01k0j3bqpbezc8cee73ca8rstv" src="https://github.com/user-attachments/assets/11424354-481b-4548-a684-8a1e12fc2a9f" />
 
 
+---
+
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
 ----------
 
 ## Contribuição
